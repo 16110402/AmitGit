@@ -5,6 +5,6 @@ int main()
 {
     int a=4;
     int b=9;
-    cout<<a+b;
+    cout<<"Sum is"<<a+b;
     return(0);
 }
